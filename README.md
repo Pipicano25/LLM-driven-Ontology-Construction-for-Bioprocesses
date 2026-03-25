@@ -5,13 +5,13 @@
 **Team Participants**: 
 |Name     |  Email   |  LinKedIn   |
 |---------|-----------------|-----------------|
-|[Anderson Daniel Pipicano Ruiz](https://github.com/[Pipicano25])| @Pipicano25 | [Anderson Daniel Pipicano Ruiz](https://www.linkedin.com/in/anderson-daniel-pipicano-ruiz/) |
-|[Sandra Jimena Orozco Lagos](https://github.com/[Sandrajol]) | @Sandrajol | |
+|[Anderson Daniel Pipicano Ruiz](https://github.com/Pipicano25)| @Pipicano25 | [Anderson Daniel Pipicano Ruiz](https://www.linkedin.com/in/anderson-daniel-pipicano-ruiz/) |
+|[Sandra Jimena Orozco Lagos](https://github.com/Sandrajol) | @Sandrajol | |
 
 **Instructor**: 
 |Name     |  Email   |  LinKedIn   |
 |---------|-----------------|-----------------|
-|[Alexander Astudillo](https://github.com/[AlexanderAstudillo])| @AlexanderAstudillo |  |
+|[Alexander Astudillo](https://github.com/AlexanderAstudillo)| @AlexanderAstudillo |  |
 
 ## Project Intro
 The main goal of this project is to develop a multi-scale bioprocess ontology covering micro/mini
