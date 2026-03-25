@@ -13,7 +13,25 @@
 |---------|-----------------|-----------------|
 |[Alexander Astudillo](https://github.com/AlexanderAstudillo)| @AlexanderAstudillo |  |
 
-## Project Intro
+## Project Objective
+The main goal of this project is to develop a multi-scale bioprocess ontology (micro/mini, lab, pilot, industrial bioreactors) using at least three LLMs.
+
+* Define the ontology scope and a set of competency questions focused on bioreactors across 
+scales.
+* Generate three candidate ontologies (one per LLM) from a curated bioprocess corpus. 
+* Consolidate the candidates into a single OWL ontology, harmonizing concepts, relations, and 
+terminology. 
+* Include explicit modeling of bioreactor scale, sensor/actuator availability, and variable 
+equivalences across scales. 
+* Validate and refine the ontology with domain experts, delivering a final version and brief 
+documentation.  
+
+### Technologies
+* Ontology engineering (OWL/RDF, Protégé, classes/properties/axioms)
+* LLMs (prompting, evaluation, reproducibility)
+* Python (e.g., parsing corpus, term extraction, normalization)
+
+## Project Description
 The main goal of this project is to develop a multi-scale bioprocess ontology covering micro/mini
 bioreactors, lab-scale, pilot-scale, and industrial-scale bioreactors, using at least three Large Language 
 Models (LLMs) as ontology generation assistants. The ontology will provide a shared, machine
@@ -42,21 +60,3 @@ scales. The resulting ontology will be iteratively validated and refined with do
 conceptual correctness, coherence, and practical utility. The final deliverables will include the expert
 validated OWL ontology, brief documentation of scope and modeling decisions, and a change log 
 summarizing the evolution from the LLM-generated candidates to the final version. 
-
-## Project Objective
-The main goal of this project is to develop a multi-scale bioprocess ontology (micro/mini, lab, pilot, industrial bioreactors) using at least three LLMs.
-
-* Define the ontology scope and a set of competency questions focused on bioreactors across 
-scales.
-* Generate three candidate ontologies (one per LLM) from a curated bioprocess corpus. 
-* Consolidate the candidates into a single OWL ontology, harmonizing concepts, relations, and 
-terminology. 
-* Include explicit modeling of bioreactor scale, sensor/actuator availability, and variable 
-equivalences across scales. 
-* Validate and refine the ontology with domain experts, delivering a final version and brief 
-documentation.  
-
-### Technologies
-* Ontology engineering (OWL/RDF, Protégé, classes/properties/axioms)
-* LLMs (prompting, evaluation, reproducibility)
-* Python (e.g., parsing corpus, term extraction, normalization)
