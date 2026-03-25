@@ -6,12 +6,12 @@
 |Name     |  Email   |  LinKedIn   |
 |---------|-----------------|-----------------|
 |[Anderson Daniel Pipicano Ruiz](https://github.com/Pipicano25)| @Pipicano25 | [Anderson Daniel Pipicano Ruiz](https://www.linkedin.com/in/anderson-daniel-pipicano-ruiz/) |
-|[Sandra Jimena Orozco Lagos](https://github.com/Sandrajol) | @Sandrajol | |
+|[Sandra Jimena Orozco Lagos](https://github.com/Sandrajol) | @Sandrajol | [Sandra Jimena Orozco Lagos](https://www.linkedin.com/in/sandrajimenaorozcolagos-88b259306/) |
 
 **Instructor**: 
 |Name     |  Email   |  LinKedIn   |
 |---------|-----------------|-----------------|
-|[Alexander Astudillo](https://github.com/AlexanderAstudillo)| @AlexanderAstudillo |  |
+|[Jairo Alexander Astudillo Lagos](https://github.com/AlexanderAstudillo)| @AlexanderAstudillo | [Jairo Alexander Astudillo Lagos](https://www.linkedin.com/in/jairoalexanderastudillo/) |
 
 ## Project Objective
 The main goal of this project is to develop a multi-scale bioprocess ontology (micro/mini, lab, pilot, industrial bioreactors) using at least three LLMs.
@@ -25,8 +25,7 @@ terminology.
 equivalences across scales. 
 * Validate and refine the ontology with domain experts, delivering a final version and brief 
 documentation.  
-
-### Technologies
+## Technologies
 * Ontology engineering (OWL/RDF, Protégé, classes/properties/axioms)
 * LLMs (prompting, evaluation, reproducibility)
 * Python (e.g., parsing corpus, term extraction, normalization)
