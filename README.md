@@ -59,3 +59,5 @@ scales. The resulting ontology will be iteratively validated and refined with do
 conceptual correctness, coherence, and practical utility. The final deliverables will include the expert
 validated OWL ontology, brief documentation of scope and modeling decisions, and a change log 
 summarizing the evolution from the LLM-generated candidates to the final version. 
+
+[Articule](https://docs.google.com/document/d/1i8SNOOr5Q4PyhJ3zOcOPOvpE4bt2rWAC/edit?usp=sharing&ouid=102869318634720132029&rtpof=true&sd=true)
