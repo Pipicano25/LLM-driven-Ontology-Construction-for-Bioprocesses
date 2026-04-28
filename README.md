@@ -61,3 +61,7 @@ validated OWL ontology, brief documentation of scope and modeling decisions, and
 summarizing the evolution from the LLM-generated candidates to the final version. 
 
 [Articule](https://icesiedu-my.sharepoint.com/:w:/g/personal/1002805709_u_icesi_edu_co/IQDZOnXglBoISb0VsFya64TRAX_aKzZ5C_Mz_nOyS8Szh4U)
+
+**Objectives** 
+
+* [Define the ontology scope and a set of competency questions focused on bioreactors across scales](https://icesiedu-my.sharepoint.com/:w:/g/personal/1002805709_u_icesi_edu_co/IQBwBpKswbBZT7zre9nNQuTfAQKR0UzLnTnNIu9ilAXH8e0?e=hGPSFv)
