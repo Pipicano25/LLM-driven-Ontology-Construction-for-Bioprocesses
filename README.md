@@ -60,7 +60,8 @@ conceptual correctness, coherence, and practical utility. The final deliverables
 validated OWL ontology, brief documentation of scope and modeling decisions, and a change log 
 summarizing the evolution from the LLM-generated candidates to the final version. 
 
-[Articule](https://icesiedu-my.sharepoint.com/:w:/g/personal/1002805709_u_icesi_edu_co/IQDZOnXglBoISb0VsFya64TRAX_aKzZ5C_Mz_nOyS8Szh4U)
+**Development of the final article**
+* [LLM-driven Ontology Construction for Bioprocesses](https://icesiedu-my.sharepoint.com/:w:/g/personal/1002805709_u_icesi_edu_co/IQDZOnXglBoISb0VsFya64TRAX_aKzZ5C_Mz_nOyS8Szh4U)
 
 **Objectives** 
 
