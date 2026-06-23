@@ -66,7 +66,12 @@ summarizing the evolution from the LLM-generated candidates to the final version
 **Objectives** 
 
 **Define the ontology scope and a set of competency questions focused on bioreactors across scales.**
+
 * [Define the ontology scope](https://icesiedu-my.sharepoint.com/:w:/g/personal/1002805709_u_icesi_edu_co/IQBwBpKswbBZT7zre9nNQuTfAQKR0UzLnTnNIu9ilAXH8e0?e=hGPSFv)
 * [Competency questions focused on bioreactors across scales](https://icesiedu-my.sharepoint.com/:w:/g/personal/1002805709_u_icesi_edu_co/IQC4H8P0JrwWQoqQ2kqnlXSXAXZ_4_w9X2hZrt4NN8fvFNM?e=9Qafjg)
 
+**Generate three candidate ontologies (one per LLM) from a curated bioprocess corpus.**
+
+* [Methodology for Constructing the Corpus and the Preliminary Ontological Base Assisted by Language Models in Multiscale Bioreactors](https://icesiedu-my.sharepoint.com/:w:/g/personal/1002805709_u_icesi_edu_co/IQAUFl-V4cgwQarvZqzGCemCAaTufNRWB6cuOMqIFtDZHDs?e=YMTqaU)
+* [Build a suitable corpus](https://drive.google.com/file/d/1Z5miFzqa3glpZvxqhR9zCC1qG1HqHS7f/view?usp=sharing)
 
