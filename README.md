@@ -65,4 +65,8 @@ summarizing the evolution from the LLM-generated candidates to the final version
 
 **Objectives** 
 
-* [Define the ontology scope and a set of competency questions focused on bioreactors across scales](https://icesiedu-my.sharepoint.com/:w:/g/personal/1002805709_u_icesi_edu_co/IQBwBpKswbBZT7zre9nNQuTfAQKR0UzLnTnNIu9ilAXH8e0?e=hGPSFv)
+**Define the ontology scope and a set of competency questions focused on bioreactors across scales.**
+* [Define the ontology scope](https://icesiedu-my.sharepoint.com/:w:/g/personal/1002805709_u_icesi_edu_co/IQBwBpKswbBZT7zre9nNQuTfAQKR0UzLnTnNIu9ilAXH8e0?e=hGPSFv)
+* [Competency questions focused on bioreactors across scales](https://icesiedu-my.sharepoint.com/:w:/g/personal/1002805709_u_icesi_edu_co/IQC4H8P0JrwWQoqQ2kqnlXSXAXZ_4_w9X2hZrt4NN8fvFNM?e=9Qafjg)
+
+
