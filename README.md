@@ -71,7 +71,7 @@ summarizing the evolution from the LLM-generated candidates to the final version
 
 * [Methodology for Constructing the Corpus and the Preliminary Ontological Base Assisted by Language Models in Multiscale Bioreactors](https://icesiedu-my.sharepoint.com/:w:/g/personal/1002805709_u_icesi_edu_co/IQAUFl-V4cgwQarvZqzGCemCAaTufNRWB6cuOMqIFtDZHDs?e=YMTqaU)
 * [Build a suitable corpus](https://drive.google.com/file/d/1Z5miFzqa3glpZvxqhR9zCC1qG1HqHS7f/view?usp=sharing)
-* [Selection of LLMs for building ontologies]()
+* [Selection of LLMs for building ontologies](https://icesiedu-my.sharepoint.com/:w:/g/personal/1002805709_u_icesi_edu_co/IQB9nAi8QhOnTY_PxoYelmJCAS11P8jT-0pf3D9EGHx6ZgM?e=Uv7IfI)
 
 ## **Development of the final article**
 * [LLM-driven Ontology Construction for Bioprocesses](https://icesiedu-my.sharepoint.com/:w:/g/personal/1002805709_u_icesi_edu_co/IQDZOnXglBoISb0VsFya64TRAX_aKzZ5C_Mz_nOyS8Szh4U)
