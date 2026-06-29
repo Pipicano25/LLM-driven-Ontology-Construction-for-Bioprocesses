@@ -76,3 +76,4 @@ summarizing the evolution from the LLM-generated candidates to the final version
 ## **Development of the final article**
 * [LLM-driven Ontology Construction for Bioprocesses](https://icesiedu-my.sharepoint.com/:w:/g/personal/1002805709_u_icesi_edu_co/IQDZOnXglBoISb0VsFya64TRAX_aKzZ5C_Mz_nOyS8Szh4U)
 
+## **[Presentation link](https://drive.google.com/file/d/1UXm4RJ8suNI0OQmfFGQUrVZnJHbijUze/view?usp=sharing)**
